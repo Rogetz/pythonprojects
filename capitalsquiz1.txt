@@ -1,0 +1,2 @@
+This is the first text written
+ and the file has been created automatically

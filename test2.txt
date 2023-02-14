@@ -1,0 +1,2 @@
+
+This is the first text, and the file was automatically created by the open method.
